@@ -1,0 +1,10 @@
+.heading{
+    text-align: center;
+    font-size: 100px;
+    color: brown;
+    border: 2px solid black;
+}
+.recipe{
+    color: rgb(137, 28, 238);
+    font-size: 20px;
+}

@@ -1,0 +1,25 @@
+.heading{
+    color: brown;
+    text-align: center;
+    font-size: 70px;
+}
+img{
+    height: auto;
+    width: 500px;
+}
+.listings{
+    font-size: 40px;
+    color: brown;
+}
+p{
+    font-size: 22px;
+    font-weight: 400;
+}
+h2{
+    font-weight: 700;
+    font-size: 25px;
+
+}
+ul{
+    font-size: 22px;
+}

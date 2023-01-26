@@ -1,0 +1,24 @@
+.heading{
+      text-align: center;
+    font-size: 70px;
+    color: brown;
+}
+img{
+    height: auto;
+    width: 500px;
+}
+.describe{
+    font-size: 22px;
+    font-weight: 400;
+}
+.ingredients{
+    color: brown;
+    font-size: 40px;
+}
+.list{
+    font-size: 22px;
+}
+.steps{
+    font-weight: 700;
+    font-size: 25px;
+}
